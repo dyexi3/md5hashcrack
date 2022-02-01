@@ -6,6 +6,8 @@ O script feito de forma bem rudimentar, não tem enfeites e luzinhas piscando no
 Não, assim como aquelas ferramentas super robustas que existem por aí, esse script não consegue quebrar um hash com toda certeza. Para uma ferramenta de bruteforce obter secusso, depende sempre de passar argumentos(wordlist) que, por sorte, esteja a sua palavra chave nela. A ferramente te ajuda em não ter que fazer isso na mão.
 
 Abaixo, deixo o código fonte do script para que vocês possam dar uma olhada e utilizar.
+Acesse meu blog para poder ter mais informações do script:
+https://scriptkiddies.xyz 
 
 ```
 #!/bin/bash/
